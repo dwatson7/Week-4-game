@@ -1,0 +1,63 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  background-image: url('https://www.blendernation.com/wp-content/uploads/2015/02/CrystalTurtle.jpg');
+}
+h1{
+  color: white;
+  line-height: 50px;
+  background-color: blue;
+  margin-bottom: 30px;
+  max-width: 50%;
+}
+
+#instructions{
+
+  background-color: beige;
+  color: green;
+  line-height: 50px;
+  max-width: 50%;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+#randomNumber{
+
+  background-color: red;
+  color: white;
+  height: 40px;
+  max-width: 20%;
+
+}
+
+ #record{
+   color: white;
+   background-color: green;
+   max-width: 10%;
+   margin-top: 15px;
+ }
+ .crystals{
+   max-width: 15%;
+   color: white;
+ }
+
+
+
+ #score{
+   color: white;
+   background: teal;
+   max-width: 20%;
+   margin-bottom: 30px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+ }
+
+ #results{
+   background-color: teal;
+   max-width: 20%;
+   padding-top:70px;
+
+
+ }
